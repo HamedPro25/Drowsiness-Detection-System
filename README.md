@@ -1,10 +1,11 @@
-# Python Interface - PySide2/PyQt5(optional) (MODERN / FLAT GUI)
+# GENERAL
 
 
-Project created using Python, Qt Designer and PySide2.
-I hope it helps everyone who is starting now in the Python world.
-This project works very well with Windows, however on Linux and macOS there are some font size problems and the custom title bar does not work very well.
+This is a python project created using PySide2 and Qt Designer
+the project purpose is to follow step by step the driver's  state while his driving
 
 # REQUERIMENTS:
 PySide2 (pip install pyside2)
+dlib library
+shape_predictor_68_face_landmarks model
 
